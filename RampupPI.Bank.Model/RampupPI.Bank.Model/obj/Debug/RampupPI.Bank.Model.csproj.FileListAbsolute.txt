@@ -1,0 +1,16 @@
+C:\Rampup\Rampup-PI\RampupPI.Bank.Model\RampupPI.Bank.Model\bin\Debug\RampupPI.Bank.Model.dll
+C:\Rampup\Rampup-PI\RampupPI.Bank.Model\RampupPI.Bank.Model\bin\Debug\RampupPI.Bank.Model.pdb
+C:\Rampup\Rampup-PI\RampupPI.Bank.Model\RampupPI.Bank.Model\obj\Debug\RampupPI.Bank.Model.csprojResolveAssemblyReference.cache
+C:\Rampup\Rampup-PI\RampupPI.Bank.Model\RampupPI.Bank.Model\obj\Debug\RampupPI.Bank.Model.dll
+C:\Rampup\Rampup-PI\RampupPI.Bank.Model\RampupPI.Bank.Model\obj\Debug\RampupPI.Bank.Model.pdb
+C:\Users\Ulisses\Downloads\RampupPI.Bank.Model-20171102T162543Z-001\RampupPI.Bank.Model\RampupPI.Bank.Model\bin\Debug\RampupPI.Bank.Model.dll
+C:\Users\Ulisses\Downloads\RampupPI.Bank.Model-20171102T162543Z-001\RampupPI.Bank.Model\RampupPI.Bank.Model\bin\Debug\RampupPI.Bank.Model.pdb
+C:\Users\Ulisses\Downloads\RampupPI.Bank.Model-20171102T162543Z-001\RampupPI.Bank.Model\RampupPI.Bank.Model\obj\Debug\RampupPI.Bank.Model.csprojResolveAssemblyReference.cache
+C:\Users\Ulisses\Downloads\RampupPI.Bank.Model-20171102T162543Z-001\RampupPI.Bank.Model\RampupPI.Bank.Model\obj\Debug\RampupPI.Bank.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ulisses\Downloads\RampupPI.Bank.Model-20171102T162543Z-001\RampupPI.Bank.Model\RampupPI.Bank.Model\obj\Debug\RampupPI.Bank.Model.dll
+C:\Users\Ulisses\Downloads\RampupPI.Bank.Model-20171102T162543Z-001\RampupPI.Bank.Model\RampupPI.Bank.Model\obj\Debug\RampupPI.Bank.Model.pdb
+C:\Rampup\RampupPI.Bank.Model-20171102T162543Z-001-20171103T095041Z-001\RampupPI.Bank.Model-20171102T162543Z-001\RampupPI.Bank.Model\RampupPI.Bank.Model\bin\Debug\RampupPI.Bank.Model.dll
+C:\Rampup\RampupPI.Bank.Model-20171102T162543Z-001-20171103T095041Z-001\RampupPI.Bank.Model-20171102T162543Z-001\RampupPI.Bank.Model\RampupPI.Bank.Model\bin\Debug\RampupPI.Bank.Model.pdb
+C:\Rampup\RampupPI.Bank.Model-20171102T162543Z-001-20171103T095041Z-001\RampupPI.Bank.Model-20171102T162543Z-001\RampupPI.Bank.Model\RampupPI.Bank.Model\obj\Debug\RampupPI.Bank.Model.csprojResolveAssemblyReference.cache
+C:\Rampup\RampupPI.Bank.Model-20171102T162543Z-001-20171103T095041Z-001\RampupPI.Bank.Model-20171102T162543Z-001\RampupPI.Bank.Model\RampupPI.Bank.Model\obj\Debug\RampupPI.Bank.Model.dll
+C:\Rampup\RampupPI.Bank.Model-20171102T162543Z-001-20171103T095041Z-001\RampupPI.Bank.Model-20171102T162543Z-001\RampupPI.Bank.Model\RampupPI.Bank.Model\obj\Debug\RampupPI.Bank.Model.pdb
