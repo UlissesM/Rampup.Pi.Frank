@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LearnTDD
 {
-    public class Produto
+    public class Produto : Object
     {
         public string descricao { get; set; }
         public double valor { get; set; }
@@ -15,7 +15,13 @@ namespace LearnTDD
         {
             this.descricao = descricao;
             this.valor = valor;
-        }               
+        }
+
+        public override bool Equals(object obj)
+        {
+            obj = (Produto)obj;
+            return base.Equals(obj);
+        }
 
     }
 }
