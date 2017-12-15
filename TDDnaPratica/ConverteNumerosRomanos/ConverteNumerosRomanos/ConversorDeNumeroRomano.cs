@@ -18,8 +18,17 @@ namespace ConverteNumerosRomanos
             for (int i = numeroRomano.Length-1;i>=0;i--)
             {
                 //pega o inteiro referente ao simbolo atual
-                int atual= tabela[numeroRomano[i]]
-                acumulador += tabela[numeroRomano[i]];
+                int atual = tabela[numeroRomano[i]];
+
+                // se o da direita for menor, o multiplicaremos
+                // por -1 para torná-lo negativo
+                int multiplicador = 1;
+
+                if (atual < ultimoVizinhoDaDireita) multiplicador = -1;
+                    acumulador += tabela[numeroRomano[i]]*multiplicador;
+
+                // atualiza o vizinho da direita 
+                ultimoVizinhoDaDireita = atual;
             }
 
             return acumulador;
