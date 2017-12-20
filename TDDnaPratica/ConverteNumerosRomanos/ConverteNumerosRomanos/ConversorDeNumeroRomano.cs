@@ -25,7 +25,7 @@ namespace ConverteNumerosRomanos
                 int multiplicador = 1;
 
                 if (atual < ultimoVizinhoDaDireita) multiplicador = -1;
-                    acumulador += tabela[numeroRomano[i]]*multiplicador;
+                    acumulador += atual*multiplicador;
 
                 // atualiza o vizinho da direita 
                 ultimoVizinhoDaDireita = atual;

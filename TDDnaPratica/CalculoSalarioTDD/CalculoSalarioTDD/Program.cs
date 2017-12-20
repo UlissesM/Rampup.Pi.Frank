@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RampupPI.Bank.Model
+namespace CalculoSalarioTDD
 {
-   public interface ICustomer
+    class Program
     {
-        string getName();
-        string getCpf();
-        
+        static void Main(string[] args)
+        {
+        }
     }
 }
