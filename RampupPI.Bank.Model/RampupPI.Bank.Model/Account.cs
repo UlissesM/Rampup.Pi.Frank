@@ -18,12 +18,17 @@ namespace RampupPI.Bank.Model
 
         public Account(int nAccount, ICustomer customer,int indexTypeAccount, StringBuilder itoken, double balance = 0)
         {
+            //AddCustomer(nAccount, customer, indexTypeAccount, itoken, balance);
+
+        }
+
+        private void AddCustomer(int nAccount, ICustomer customer, int indexTypeAccount, StringBuilder itoken, double balance)
+        {
             this.nAccount = nAccount;
             this.customer = customer;
             this.indexTypeAccount = indexTypeAccount;
             this.itoken = itoken;
             this.balance = balance;
-
         }
 
         public virtual void Deposit(double value)

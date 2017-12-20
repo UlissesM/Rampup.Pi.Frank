@@ -29,11 +29,13 @@ namespace Funcionario.cs
         }
 
         [Test]
-
         public void DeveCalcularSalarioDBAsComSalariosAbaixoDoLimite()
         {
-
-        }
-
+            CalculaSalario calculadora = new CalculaSalario();
+            Funcionario dba = new Funcionario("db", 500.0, Cargo.DBA);
+            double salario = calculadora.CalculadoraSalario(dba);
+            Assert.AreEqual(500.0 * 0.85, salario);
+        }     
+        
     }
 }

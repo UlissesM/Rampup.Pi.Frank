@@ -10,8 +10,13 @@ namespace Funcionario.cs
     {
         public double CalculadoraSalario(Funcionario func)
         {
-            if (func.Salario > 3000) return 3200.0;
-            return 1350.0;
+            if (func.Cargo.Equals(Cargo.DESENVOLVEDOR))
+            {
+                if (func.Salario > 3000) return 3200.0;
+                return 1350.0;
+            }
+
+            return 425.0;
         }
     }
 }
